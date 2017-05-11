@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
-  color: #747704;
+  color: #2d3c49;
   font-weight: 300;
 }
 
@@ -8,15 +8,23 @@ img {
   height: auto;
 }
 
-.text-muted {
-  color: #BCBBBB;
+header {
+  color: #2d3c49;
+}
+
+h4 {
+  font-weight: 700;
+}
+
+.image-row-header {
+  color: #7d97ad;
 }
 
 .text-thin {
   font-weight: 100;
 }
 
-.title-super {
+.title-name {
   font-size: 60px;
 }
 
@@ -25,6 +33,11 @@ img {
   height: 15vh;
 }
 
-.image-row .img-responsive {
+.image-row-image {
   height: 25vh;
+}
+
+.page-break {
+  color: #7d97ad;
+  border: 2px solid;
 }
